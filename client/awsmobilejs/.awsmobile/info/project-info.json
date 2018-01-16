@@ -1,0 +1,22 @@
+{
+	"ProjectName": "client",
+	"ProjectPath": "/Users/adrian2/Sites/React-Native/tuts/aws-mobile-react-native-starter/client",
+	"SourceDir": "src",
+	"DistributionDir": "build",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2018-01-15-12-58-18",
+	"LastConfigurationTime": "2018-01-15-12-58-29",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastBuildTime": "",
+	"BackendLastUpdateTime": "",
+	"BackendLastUpdateSuccessful": false,
+	"BackendProjectID": "911b3e41-9c67-4575-a22f-71cfa06a44a8",
+	"BackendProjectName": "Roadie",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/911b3e41-9c67-4575-a22f-71cfa06a44a8/build",
+	"BackendProjectCreationTime": "2018-01-15T18:55:28.138Z",
+	"BackendProjectLastUpdatedTime": "2018-01-15T18:57:12.686Z"
+}
